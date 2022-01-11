@@ -1,1 +1,2 @@
-# Recipe-finder-based-on-one-ingrediente-
+# Recipe finder based on a single ingredient.
+
